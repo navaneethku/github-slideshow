@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ready to get Rick Rolled?
 Use the left arrow to go back!
